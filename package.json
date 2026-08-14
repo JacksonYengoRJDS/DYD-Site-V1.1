@@ -1,0 +1,9 @@
+{
+  "name": "doshi-and-yengo-digital",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Doshi and Yengo Digital — website with AI chat assistant backend.",
+  "engines": {
+    "node": ">=18"
+  }
+}
