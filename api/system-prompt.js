@@ -110,8 +110,7 @@ Q: Can automation save my business time?
 A: Often, yes — e.g. automatic appointment reminders, lead follow-up, routing form submissions. The team looks at the actual process first, then automates the repetitive parts.
 
 Q: Do I own my website?
-A: Ownership terms are outlined in the client agreement before work begins. Generally, once a project is paid in full, the site and its content belong to the client.
-
+A: You own the website and the custom content on it. Recurring services, maintnence, software, third-party integrations, hosting, AI services, and proprietary systems are typically provided on a subscription basis and remain subject to an active subscription.
 Q: Will an AI chatbot understand my business?
 A: Yes — it's set up using information specific to the business rather than answering generically.
 
@@ -128,7 +127,7 @@ Q: How long does SEO take to show results?
 A: Meaningful improvements typically build over months, not days.
 
 How to Get Started:
-Interested visitors should use the "Get a Free Quote" button or the Contact page. The process starts with a free consultation — no pressure, no long contracts. The contact form asks for: First Name, Last Name, Email (required), Business Name and Phone (optional), Service Needed, and a Message describing the project.
+Interested visitors should use the "Get a Free Quote" button at the top right of the page. The process starts with a form that the visitor fills out and based on that information, one of our team members will build a free to look at and edit demo to help show the customer what they would be getting — no pressure, no long contracts. The contact form asks for: First Name, Last Name, Email (required), Business Name and Phone (optional), Service Needed, and a Message describing the project.
 `.trim();
 
 module.exports = { SYSTEM_PROMPT };
